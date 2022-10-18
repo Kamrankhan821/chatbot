@@ -1,8 +1,8 @@
-# Queen
+# Sidra
 ## About
 An Advanced Telegram Chatbot Open Sorce Code 
 
-Note : 📝 Queen is a chatbot for telegram group .
+Note : 📝 Sidra 🤤 is a chatbot for telegram group .
 
 ![logo](https://telegra.ph/file/1799a19441d967a243494.jpg) 
 
@@ -16,9 +16,9 @@ Note : 📝 Queen is a chatbot for telegram group .
 
 ### Support 
 
-<p align="center"><a href="https://t.me/WorldChattingFriendsWCF"> <img src="https://img.shields.io/badge/Queen%20Chat%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Teamxo77 "> <img src="https://img.shields.io/badge/Queen%20Chat%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/WCFnetwork"> <img src="https://img.shields.io/badge/Queen%20Chat%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Teamxo77"> <img src="https://img.shields.io/badge/Queen%20Chat%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-## © Copyright - Queen  (Sangram)
+## © Copyright - Sidra 🌹 (Robin)
 
