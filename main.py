@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @PiyushMalviyaOfficially | @JoinIndianNavy_007
-#Github :- TeamPiyush | EmiliaChatAi
+#Don't remove This Line From Here. @Teamxo77| @Teamxo77
+#Github :- TeamPiyush | sidra
 from pyrogram import Client, filters
 from pyrogram.types import *
 from pymongo import MongoClient
@@ -42,7 +42,7 @@ STKR8 = os.environ.get("STKR8", None)
 STKR9 = os.environ.get("STKR9", None)
 
 bot = Client(
-    "Queen" ,
+    "Sidra" ,
     api_id = API_ID,
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
@@ -72,13 +72,13 @@ PHOTO = [
 ]
 
 EMOJIOS = [ 
-      "💣",
-      "💥",
-      "🪄",
-      "🧨",
+      "👻",
+      "❣️",
+      "💋",
+      "👅",
       "⚡",
       "🤡",
-      "👻",
+      "👄",
       "🎃",
       "🎩",
       "🕊",
@@ -97,9 +97,9 @@ STICKER = [
       STKR9,
 ]
 START = f"""
-**๏ 𝐇𝐞𝐲, 𝐈 𝐚𝐦 [{BOT_NAME}]({START_IMG1})**
-**๏ 𝐈"𝐦 𝐐𝐮𝐞𝐞𝐧 𝐚𝐧𝐝 𝐀 𝐂𝐡𝐚𝐭𝐛𝐨𝐭.**
-**๏ 𝐈 𝐖𝐚𝐧𝐭 𝐭𝐨 𝐜𝐡𝐚𝐭 𝐰𝐢𝐭𝐡 𝐘𝐨𝐮 𝐁𝐚𝐛𝐲 🥺..**
+**๏ Hey, I AM [{Sidra}]({START_IMG})**
+**๏ I'M SIDRA CHAT BOT **
+**๏ I WANT CHST YIU BABY 🙈..**
 **➻ 𝐀𝐧 𝐀𝐈-𝐁𝐚𝐬𝐞𝐝 𝐂𝐡𝐚𝐭𝐛𝐨𝐭.**
 **──────────────────**
 **➻ 𝐔𝐬𝐚𝐠𝐞 /chatbot [on/off]**
@@ -107,20 +107,20 @@ START = f"""
 """
 PIYUSH_OP = [
     [
-        InlineKeyboardButton(text="🌹 𝐎𝐖𝐍𝐄𝐑 🌹", url=f"https://t.me/Muskan_Assistant"),
-        InlineKeyboardButton(text="💬 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💬", url=f"https://t.me/Teamxo77"),
+        InlineKeyboardButton(text="💓Sidra Baby💓", url=f"https://t.me/Muskan_Queen"),
+        InlineKeyboardButton(text="💫Robin chat 💫", url=f"https://t.me/Teamxo77"),
     ],
     [
         InlineKeyboardButton(
-            text="🥺 𝐀𝐝𝐝 𝐌𝐞 𝐁𝐚𝐛𝐲 🥺",
+            text="🥺 MUJE ADD KR LO NA YAAL 🥺",
             url=f"https://t.me/Sidra_robot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🥰 𝐇𝐞𝐥𝐩 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 🥰", callback_data="HELP"),
+        InlineKeyboardButton(text="🥰 Help & Commands  Baby 🥰", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="🤑 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 🤑", callback_data="SOURCE"),
+        InlineKeyboardButton(text="🤑 Source code 🤑", callback_data="SOURCE"),
         InlineKeyboardButton(text="😜 𝐀𝐛𝐨𝐮𝐭 😜", callback_data="ABOUT"),
     ],
 ]
@@ -164,7 +164,7 @@ ABOUT_READ = f"""
 **➻ [𝐒𝐢𝐝𝐫𝐚](https://t.me/Sidra_robot) 𝐑𝐞𝐩𝐥𝐢𝐞𝐬 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐭𝐨 𝐚 𝐔𝐬𝐞𝐫.**
 **➻ 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐢𝐧 𝐌𝐚𝐤𝐞𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐜𝐭𝐢𝐯𝐞.**
 **➻ 𝐅𝐢𝐫𝐬𝐭 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐁𝐚𝐬𝐞𝐝 𝐨𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐰𝐢𝐭𝐡 𝐌𝐨𝐧𝐠𝐨-𝐃𝐛 𝐚𝐬 𝐚 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞**
-**➻ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [Sangram](https://t.me/OpSangram) 𝐚𝐧𝐝 [𝐖𝐂𝐅](https://t.me/WorldChattingFriendsWCF) **
+**➻ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [Sangram](https://t.me/OpSangram) 𝐚𝐧𝐝 [𝐖𝐂𝐅](https://t.me/Teamxo77) **
 **──────────────────**
 **➻ 𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐆𝐢𝐯𝐞𝐧 𝐁𝐞𝐥𝐨𝐰 𝐟𝐨𝐫 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐁𝐚𝐬𝐢𝐜 𝐇𝐞𝐥𝐩 𝐚𝐧𝐝 𝐈𝐧𝐟𝐨 𝐀𝐛𝐨𝐮𝐭 [𝐒𝐢𝐝𝐫𝐚](https://t.me/Sidra_robot)**
 """
@@ -174,11 +174,11 @@ async def restart(client, m: Message):
                 text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(1.5)
-    await accha.edit("__(っ◔◡◔)っ ♥ 𝐁𝐡𝐮𝐝𝐮𝐦 𝐁𝐡𝐮𝐝𝐮𝐦 𝐒𝐭𝐚𝐫𝐭 𝐡𝐨 𝐫𝐡𝐚 𝐡𝐚𝐢 ♥..__")
+    await accha.edit("__•́  ‿ ,•̀ 🩸 Mai aa rhi hu baby 💋🥺.__")
     await asyncio.sleep(0.3)
-    await accha.edit("__(っ◔◡◔)っ ♥ 𝐁𝐡𝐮𝐝𝐮𝐦 𝐁𝐡𝐮𝐝𝐮𝐦 𝐒𝐭𝐚𝐫𝐭 𝐡𝐨 𝐫𝐡𝐚 𝐡𝐚𝐢 ♥.....__")
+    await accha.edit("__(っ◔◡◔)っ ♥ wait kro na baby 🥺 ♥.....__")
     await asyncio.sleep(0.3)
-    await accha.edit("__(っ◔◡◔)っ ♥ 𝐁𝐡𝐮𝐝𝐮𝐦 𝐁𝐡𝐮𝐝𝐮𝐦 𝐒𝐭𝐚𝐫𝐭 𝐡𝐨 𝐫𝐡𝐚 𝐡𝐚𝐢 ♥..__")
+    await accha.edit("__(っ◔◡◔)っ ♥ mai aagyi baby 💋 ♥..__")
     await asyncio.sleep(0.3)
     await accha.delete()
     umm = await m.reply_sticker(
