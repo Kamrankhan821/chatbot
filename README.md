@@ -4,7 +4,7 @@ An Advanced Telegram Chatbot Open Sorce Code
 
 Note : 📝 Sidra 🤤 is a chatbot for telegram group .
 
-![logo](https://telegra.ph/file/1799a19441d967a243494.jpg) 
+![logo](https://telegra.ph/file/a33e23429bf82e60564c8.jpg) 
 
 ## How To Host  The easiest way to deploy this Bot
 • Enter ```MONGO_URL```,```API_ID```,```API_HASH```,```BOT_TOKEN```,```BOT_USERNAME```,```OWNER_USERNAME```,```BOT_NAME```,```UPDATE_CHNL```,```SUPPORT_GRP```,```STKR```And```START_IMG```
